@@ -80,12 +80,12 @@
 
 <!-- Stars, Commits, PRs -->
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=alorber&hide=issues,contribs&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats-azmhyu0wy-alorber.vercel.app/api?username=alorber&hide=issues,contribs&count_private=true&show_icons=true" />
 </div>
 
 <!-- Top Languages -->
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alorber&layout=compact&langs_count=6&hide=Yacc,HTML,Jupyter%20Notebook" />
+<img src="https://github-readme-stats-azmhyu0wy-alorber.vercel.app/api/top-langs/?username=alorber&layout=compact&langs_count=6&hide=Yacc,HTML,Jupyter%20Notebook" />
 </div>
 
 ---
