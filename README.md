@@ -6,6 +6,12 @@
   Welcome to my GitHub profile
 </h3>
 
+<h3 align='center'>
+  <a href="https://alorber.github.io/Resume/">
+    View my resume
+  </a>
+</h3>  
+
 ---
 
 <!-- Tech Stack -->
