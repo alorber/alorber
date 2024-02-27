@@ -85,20 +85,20 @@
   <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
 </p>
 
----
+<!-- --- -->
 
 <!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
+<!-- <h3 align="center">GitHub Stats</h3> -->
 
 <!-- Stars, Commits, PRs -->
-<div align='center'>
-  <img src="https://github-readme-stats-sooty-sigma-23.vercel.app/api?username=alorber&hide=issues,contribs&count_private=true&show_icons=true" />
-</div>
+<!-- <div align='center'> -->
+  <!-- <img src="https://github-readme-stats-sooty-sigma-23.vercel.app/api?username=alorber&hide=issues,contribs&count_private=true&show_icons=true" /> -->
+<!-- </div> -->
 
 <!-- Top Languages -->
-<div align='center'>
-<img src="https://github-readme-stats-sooty-sigma-23.vercel.app/api/top-langs/?username=alorber&layout=compact&langs_count=6&hide=Yacc,HTML,Jupyter%20Notebook" />
-</div>
+<!-- <div align='center'> -->
+<!-- <img src="https://github-readme-stats-sooty-sigma-23.vercel.app/api/top-langs/?username=alorber&layout=compact&langs_count=6&hide=Yacc,HTML,Jupyter%20Notebook" /> -->
+<!-- </div> -->
 
 ---
 
